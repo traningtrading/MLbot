@@ -1,0 +1,4 @@
+ohlcv/*
+!df_ohlcv.pkl
+model/*
+!.gitkeep
