@@ -1,4 +1,8 @@
+jquants/*
+!df_listed_info.pkl
+
 ohlcv/*
 !df_ohlcv.pkl
+
 model/*
 !.gitkeep
