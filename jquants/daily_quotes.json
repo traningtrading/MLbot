@@ -1,0 +1,20 @@
+{
+    "daily_quotes": [
+        {
+            "Date": "2023-03-14",
+            "Code": "86970",
+            "Open": 1999.0,
+            "High": 2015.0,
+            "Low": 1989.5,
+            "Close": 1999.5,
+            "Volume": 2654000.0,
+            "TurnoverValue": 5306167200.0,
+            "AdjustmentFactor": 1.0,
+            "AdjustmentOpen": 1999.0,
+            "AdjustmentHigh": 2015.0,
+            "AdjustmentLow": 1989.5,
+            "AdjustmentClose": 1999.5,
+            "AdjustmentVolume": 2654000.0
+        }
+    ]
+}
